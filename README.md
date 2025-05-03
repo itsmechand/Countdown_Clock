@@ -14,6 +14,9 @@ This is a clean and minimal countdown timer that helps you track time for any ev
 - Smooth animations
 - Works on all modern browsers
 
+![image](https://github.com/user-attachments/assets/93d329c7-5223-439e-9a97-cea9730e6eff)
+
+
 ## Technologies
 
 - HTML
